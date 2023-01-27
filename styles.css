@@ -1,0 +1,10 @@
+
+
+.dots {
+    list-style: none;
+}
+
+.place {
+    display: flex;
+    justify-content: center;
+}
